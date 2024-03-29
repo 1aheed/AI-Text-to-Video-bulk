@@ -3,7 +3,7 @@ Create AI text to video, shorts, reels or tiktok videos with AI image, captions 
 ### No heavy computer or GPU required run on any system!
 
 # Script demo:
-
+https://github.com/1aheed/AI-Text-to-Video-bulk/assets/85237766/b384e33b-c7de-4208-9a22-aa68076e6633
 
 # Output video demo:
 https://github.com/1aheed/AI-Text-to-Video-bulk/assets/85237766/58257777-939d-40f1-b412-8830ece541c6
