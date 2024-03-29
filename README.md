@@ -1,8 +1,12 @@
 # AI-Text-to-Video
-Create text to video, shorts, reels and tiktok videos in bulk using OpenAI and LemonFox, I could use DallE 3 but it has many restrictions and could not perform better at bulk video generation.
+Create AI text to video, shorts, reels or tiktok videos with AI image, captions and voiceover 6 voices available to choose from. Make videos in bulk! This script uses OpenAI and LemonFox, I could use DallE 3 but it has many restrictions and could not perform better at bulk video generation.
+### No heavy computer or GPU required run on any system!
 
-## Script demo
+# Script demo:
 
+
+# Output video demo:
+https://github.com/1aheed/AI-Text-to-Video-bulk/assets/85237766/58257777-939d-40f1-b412-8830ece541c6
 
 ## Please install Python on your device first!
 https://www.python.org/downloads/
